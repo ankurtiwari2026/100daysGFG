@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/at034/OneDrive/Documents/Desktop/c++",
-      "program": "c:/Users/at034/OneDrive/Documents/Desktop/c++/build/Debug/outDebug",
+      "cwd": "c:/Users/at034/OneDrive/Documents/Desktop/100daysGFG/100daysGFG",
+      "program": "c:/Users/at034/OneDrive/Documents/Desktop/100daysGFG/100daysGFG/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
