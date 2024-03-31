@@ -29,4 +29,4 @@ class Solution:
                 min_city_count = count
                 city_no = i
 
-        return city_no
+        return city_no2
